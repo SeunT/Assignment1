@@ -1,0 +1,5 @@
+Steps to Execute Code:
+	1. Make sure all csv files are in the same folder	
+	2. Press green arrow button
+
+All data has been extracted and calculated for.
